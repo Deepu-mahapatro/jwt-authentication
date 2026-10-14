@@ -1,4 +1,4 @@
-# 05 — JWT Security Best Practices, Rules and Mistakes to Avoid
+# JWT Security Best Practices, Rules and Mistakes to Avoid
 
 ## 1. Purpose
 
